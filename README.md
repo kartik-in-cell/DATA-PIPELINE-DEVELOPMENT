@@ -14,11 +14,11 @@ CODTECH INTERNSHIP TASK -1
 
 *MENTOR*: NEELA SANTOSH
 
-Overview
+*Overview*
 
 This project focuses on building a data pipeline for Extract, Transform, Load (ETL) operations using Pandas and Scikit-Learn. The pipeline automates data preprocessing, transformation, and loading into a structured format, making it ready for further analysis or machine learning models.
 
-Objectives
+*Objectives*
 
 Load and preprocess raw dataset.
 
@@ -28,7 +28,7 @@ Encode categorical variables and standardize numerical features.
 
 Save the processed data for further analysis.
 
-Technologies Used
+*Technologies Used*
 
 Python
 
@@ -36,11 +36,11 @@ Pandas
 
 Scikit-Learn
 
-Implementation Steps
+*Implementation Steps*
 
-Extract (E): Load the dataset from a CSV file.
+1.Extract (E): Load the dataset from a CSV file.
 
-Transform (T):
+2.Transform (T):
 
 Handle missing values (mean imputation for numerical, most frequent for categorical).
 
@@ -48,9 +48,9 @@ One-Hot Encode categorical features.
 
 Standardize numerical features.
 
-Load (L): Save the processed dataset as a new CSV file.
+3.Load (L): Save the processed dataset as a new CSV file.
 
-Files Included
+*Files Included*
 
 sample_data_100.csv: Raw dataset (100+ rows).
 
@@ -58,7 +58,7 @@ data_pipeline.py: Python script for the ETL process.
 
 processed_data.csv: Preprocessed and transformed dataset.
 
-How to Run
+*How to Run*
 
 Download the sample_data_100.csv file.
 
