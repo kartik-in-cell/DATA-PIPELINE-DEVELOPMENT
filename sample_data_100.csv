@@ -1,0 +1,101 @@
+Name,Age,Gender,Salary,City
+Bob,48.0,Female,30055.0,Dallas
+Tom,56.0,Female,,Denver
+Bob,57.0,Male,58699.0,Los Angeles
+John,38.0,Male,97661.0,Boston
+John,27.0,Male,74247.0,Chicago
+Emma,20.0,Male,46748.0,Los Angeles
+Olivia,,Male,34621.0,Los Angeles
+Alice,36.0,Female,45034.0,Denver
+Bob,26.0,Female,35126.0,Seattle
+Alice,44.0,Female,35122.0,San Francisco
+Bob,23.0,,48030.0,Houston
+Michael,55.0,Female,85658.0,Denver
+John,25.0,Female,68638.0,Miami
+Olivia,50.0,Female,97067.0,Denver
+Emma,38.0,Male,64674.0,Miami
+Olivia,58.0,Male,65854.0,Miami
+Olivia,46.0,Male,,San Francisco
+Olivia,29.0,Male,68518.0,Houston
+Alice,45.0,Male,40267.0,Boston
+Bob,38.0,Male,31062.0,San Francisco
+Daniel,58.0,Female,80448.0,Chicago
+Michael,22.0,Female,36229.0,Denver
+Eva,32.0,Male,86793.0,Miami
+Olivia,,Male,77915.0,Dallas
+Tom,39.0,Male,,
+Alice,47.0,Female,33596.0,Dallas
+Emma,27.0,Female,36168.0,Los Angeles
+Eva,58.0,Female,37561.0,
+Daniel,20.0,Male,56734.0,Dallas
+Tom,22.0,Female,36371.0,Houston
+Daniel,32.0,,56069.0,Los Angeles
+Eva,47.0,Male,42910.0,Boston
+Olivia,44.0,Female,53275.0,Dallas
+Tom,52.0,Female,,San Francisco
+Daniel,57.0,Female,92981.0,Denver
+Emma,25.0,Male,84553.0,Boston
+Bob,51.0,Female,78447.0,Los Angeles
+John,,Female,64529.0,Houston
+Bob,35.0,Female,47260.0,Chicago
+Eva,40.0,,33812.0,Boston
+Alice,30.0,Female,58024.0,New York
+John,56.0,,88656.0,Dallas
+Michael,,Female,57285.0,Boston
+Emma,54.0,Female,31605.0,Denver
+Michael,38.0,Female,57139.0,Houston
+Tom,39.0,Male,86138.0,Denver
+John,37.0,Female,43918.0,Los Angeles
+Michael,33.0,Female,57446.0,Denver
+Michael,34.0,Female,43046.0,Los Angeles
+Daniel,50.0,,54818.0,Miami
+Bob,,Male,34324.0,Boston
+Daniel,22.0,Female,,Los Angeles
+John,35.0,Female,68110.0,Chicago
+John,42.0,Female,,Boston
+Eva,30.0,Female,71427.0,Boston
+Daniel,31.0,Female,58746.0,Seattle
+Sophia,29.0,Female,30117.0,Seattle
+Bob,51.0,Male,43234.0,Dallas
+John,35.0,Male,,Chicago
+Eva,27.0,Female,30846.0,Houston
+Daniel,57.0,Male,40954.0,Chicago
+Bob,31.0,Male,76514.0,
+Daniel,43.0,Female,36469.0,Dallas
+Michael,47.0,Male,60105.0,Miami
+Eva,27.0,Female,72101.0,San Francisco
+Bob,47.0,Female,94323.0,
+Olivia,55.0,Female,88067.0,Los Angeles
+Tom,45.0,Male,79376.0,Dallas
+Tom,27.0,Female,75587.0,San Francisco
+Bob,,Male,66976.0,Dallas
+Daniel,,Female,97584.0,New York
+Eva,56.0,Male,72533.0,Denver
+Tom,55.0,Female,31828.0,
+Eva,46.0,Female,31917.0,Dallas
+Tom,36.0,,,Seattle
+Michael,28.0,Female,62254.0,
+Daniel,52.0,Male,77362.0,Seattle
+Michael,39.0,Female,50128.0,Los Angeles
+Tom,32.0,Male,89383.0,Dallas
+Olivia,47.0,Male,95545.0,Dallas
+Olivia,48.0,Male,39865.0,Miami
+Michael,32.0,Female,,Boston
+Olivia,54.0,Female,69809.0,
+Tom,25.0,Male,35287.0,
+Bob,37.0,Female,64387.0,San Francisco
+Michael,24.0,Male,38512.0,Los Angeles
+Alice,44.0,Male,31342.0,
+Daniel,21.0,Male,93076.0,Denver
+Olivia,29.0,Male,49216.0,Los Angeles
+Olivia,,Female,56614.0,
+John,,Female,66258.0,Denver
+Sophia,52.0,Female,72078.0,San Francisco
+Michael,20.0,Male,42219.0,Dallas
+Emma,37.0,Male,30235.0,Miami
+Olivia,51.0,Male,72929.0,New York
+Daniel,30.0,Female,97444.0,Houston
+Alice,40.0,Male,38567.0,Boston
+Olivia,45.0,Female,95441.0,New York
+Alice,44.0,,35415.0,Houston
+Tom,41.0,Female,66159.0,Miami
